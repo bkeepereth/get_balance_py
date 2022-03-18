@@ -1,0 +1,10 @@
+<configuration>
+  <property><name>BIN_DIR</name><value>/bin</value></property> 
+  <property><name>ETC_DIR</name><value>/etc</value></property> 
+  <property><name>LOG_DIR</name><value>/log</value></property> 
+
+  <property><name>ES_KEY</name><value></value></property>
+  <property><name>ALCHEMY_MAINNET_URL</name><value></value></property>  
+  <property><name>ALCHEMY_ROPSTEN_URL</name><value></value></property>  
+  <property><name>ALCHEMY_RINKEBY_URL</name><value></value></property>  
+</configuration>
