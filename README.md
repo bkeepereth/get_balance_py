@@ -8,9 +8,9 @@ Setup and Run:   <br>
 - Bootstrap configuration.xml with etherscan key, optional <br>
 
 Usage:   <br>
-./get_balance.py -c config_path -a address -n network [-i api].  <br><br>
+./get_balance.py -c config_path -a address -n network [-i api].  <br>
 
-  -n [mainnet, ropsten, rinkeby, all]  <br><br>
+  -n [mainnet, ropsten, rinkeby, all]  <br>
 
   -i [web3, es], web3.py by default, es enables etherscan api querying<br><br><br>
   
