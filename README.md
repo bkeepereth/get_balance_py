@@ -1,7 +1,5 @@
 # get_balance_py
 
-utility script to get balance by request of a fren. <br><br>
-
 Setup and Run:   <br>
 - Bootstrap paths for bin, etc, log <br>
 - Bootstrap configuration.xml with alchemy http keys, required <br>
@@ -26,8 +24,7 @@ Tests: <br>
 
 ./get_balance.py -c ../etc/configuration.xml -a 0xB07626Bc2fF18d680ec886c3109e9BF6ee05E6b7 -n all  <br>
 ./get_balance.py -c ../etc/configuration.xml -a 0xB07626Bc2fF18d680ec886c3109e9BF6ee05E6b7 -n all -i es <br>
-./get_balance.py -c ../etc/configuration.xml -a 0xB07626Bc2fF18d680ec886c3109e9BF6ee05E6b7 -n all -i web3 <br>
+./get_balance.py -c ../etc/configuration.xml -a 0xB07626Bc2fF18d680ec886c3109e9BF6ee05E6b7 -n all -i web3 <br><br>
 
-
-
+*code submission QuikNode
 
